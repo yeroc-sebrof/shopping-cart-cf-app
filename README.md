@@ -18,3 +18,4 @@ TODO:
 6.  Ability for admin users to add Product/Category
 7.  ~~Category to product drill down~~
 8.  Clean up UI
+9.  Make this into a CTF?!?!?
